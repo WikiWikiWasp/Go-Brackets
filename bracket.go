@@ -105,3 +105,19 @@ func runMenu() {
 func addPart(numParts int) {
 
 }
+
+func deletePart(numParts int) {
+
+}
+
+func editPart(numParts int) {
+
+}
+
+func recResults() {
+
+}
+
+func showBracket() {
+
+}
